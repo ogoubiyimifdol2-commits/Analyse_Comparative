@@ -1,0 +1,37 @@
+﻿source;reference;probleme;traitement
+Marché Lagune;ML-1000;en rupture de stock;écarté du « moins cher » (conservé dans les données)
+Marché Lagune;ML-1014;en rupture de stock;écarté du « moins cher » (conservé dans les données)
+Marché Lagune;ML-1049;en rupture de stock;écarté du « moins cher » (conservé dans les données)
+Marché Lagune;ML-1000 (ligne 14);doublon exact d'une ligne déjà lue;ligne ignorée
+Marché Lagune;ML-1084;en rupture de stock;écarté du « moins cher » (conservé dans les données)
+Marché Lagune;ML-1105;espaces parasites dans la désignation;nom normalisé
+Marché Lagune;ML-1119;"prix inexploitable ('Prix sur demande') ; l'ancien prix n'est pas un prix de vente";article sans prix : écarté du comparatif
+Marché Lagune;ML-1147;en rupture de stock;écarté du « moins cher » (conservé dans les données)
+Marché Lagune;ML-1168;"prix inexploitable ('vide') ; l'ancien prix n'est pas un prix de vente";article sans prix : écarté du comparatif
+Marché Lagune;ML-1168;en rupture de stock;écarté du « moins cher » (conservé dans les données)
+Marché Lagune;ML-1147 (ligne 31);doublon exact d'une ligne déjà lue;ligne ignorée
+Baobab Shop;BB03433;stock = 0;écarté du « moins cher » (conservé dans les données)
+Baobab Shop;BB07953;vendu par un partenaire (Partenaire vérifié);conservé, prix retenu tel quel (information seulement)
+Baobab Shop;BB10686;vendu par un partenaire (Partenaire vérifié);conservé, prix retenu tel quel (information seulement)
+Baobab Shop;BB11833;vendu par un partenaire (Partenaire vérifié);conservé, prix retenu tel quel (information seulement)
+Baobab Shop;BB16464;stock = 0;écarté du « moins cher » (conservé dans les données)
+Baobab Shop;BB22196;vendu par un partenaire (Partenaire vérifié);conservé, prix retenu tel quel (information seulement)
+Baobab Shop;BB26722;vendu par un partenaire (Partenaire vérifié);conservé, prix retenu tel quel (information seulement)
+Baobab Shop;BB27999 (Philips Steam Iron);prix (amount) = null;article sans prix : écarté du comparatif
+Baobab Shop;BB27999;vendu par un partenaire (Partenaire vérifié);conservé, prix retenu tel quel (information seulement)
+Baobab Shop;BB29464;vendu par un partenaire (Partenaire vérifié);conservé, prix retenu tel quel (information seulement)
+Baobab Shop;BB30124;vendu par un partenaire (Partenaire vérifié);conservé, prix retenu tel quel (information seulement)
+Baobab Shop;BB30124;stock = 0;écarté du « moins cher » (conservé dans les données)
+Comptoir Ivoire;CI200;remise de 15 % sur le prix catalogue;prix payé = 92990 FCFA
+Comptoir Ivoire;CI203;remise de 5 % sur le prix catalogue;prix payé = 67165 FCFA
+Comptoir Ivoire;CI204;remise de 5 % sur le prix catalogue;prix payé = 42940 FCFA
+Comptoir Ivoire;CI207;remise de 5 % sur le prix catalogue;prix payé = 287375 FCFA
+Comptoir Ivoire;CI208;remise de 10 % sur le prix catalogue;prix payé = 406260 FCFA
+Comptoir Ivoire;CI212;remise de 15 % sur le prix catalogue;prix payé = 168385 FCFA
+Comptoir Ivoire;CI213;remise de 15 % sur le prix catalogue;prix payé = 151725 FCFA
+Comptoir Ivoire;CI214;remise de 5 % sur le prix catalogue;prix payé = 241300 FCFA
+Comptoir Ivoire;CI214;quantité en rayon = 0;écarté du « moins cher » (conservé dans les données)
+Comptoir Ivoire;CI215;remise de 10 % sur le prix catalogue;prix payé = 88740 FCFA
+Comptoir Ivoire;CI216;prix stocké comme texte ('279\u202f300', espace insécable);converti en entier
+Comptoir Ivoire;CI217;quantité en rayon = 0;écarté du « moins cher » (conservé dans les données)
+Marché Lagune;ML-1021;prix aberrant : 779000 FCFA alors que l'historique donne ~77900 FCFA (facteur 10);corrigé en 77900 FCFA (faute de frappe probable, confirmée par l'historique)
